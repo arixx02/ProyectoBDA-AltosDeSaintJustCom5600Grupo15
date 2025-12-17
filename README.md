@@ -15,4 +15,9 @@
 ## Descripción del Proyecto
 
 Este repositorio contiene el proyecto correspondiente al grupo 15 de la comisión 5600.  
+
 Aquí se encuentran los códigos fuente, scripts y recursos necesarios para la realización del proyecto.
+
+URL del repositorio original del proyecto: https://github.com/JonaEnrique/AltosDeSaintJustCom5600Grupo15.git
+
+Este repositorio esta desactualizado actualmente con respecto al original.
